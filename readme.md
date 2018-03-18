@@ -1,0 +1,3 @@
+- `sbt assembly` to build a jar
+- fill `config.properties`
+- `run.sh` / `run.bat`
